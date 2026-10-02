@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "basics-array": "tsx src/basics/arrays.ts"
+        "arrays": "tsx src/inbuilt_ds/arrays.ts",
+        "objects": "tsx src/inbuilt_ds/objects.ts"
     },
     "keywords": [],
     "author": "",

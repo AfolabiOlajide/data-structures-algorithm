@@ -5,7 +5,8 @@
     "main": "index.js",
     "scripts": {
         "arrays": "tsx src/inbuilt_ds/arrays.ts",
-        "objects": "tsx src/inbuilt_ds/objects.ts"
+        "objects": "tsx src/inbuilt_ds/objects.ts",
+        "solutions:comments": "tsx src/solutions/recursive_comments.ts"
     },
     "keywords": [],
     "author": "",

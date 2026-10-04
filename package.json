@@ -6,6 +6,7 @@
     "scripts": {
         "arrays": "tsx src/inbuilt_ds/arrays.ts",
         "objects": "tsx src/inbuilt_ds/objects.ts",
+        "pattern:frequency": "tsx src/patterns/frequency_counter.ts",
         "solutions:comments": "tsx src/solutions/recursive_comments.ts"
     },
     "keywords": [],

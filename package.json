@@ -8,6 +8,7 @@
         "objects": "tsx src/inbuilt_ds/objects.ts",
         "pattern:frequency": "tsx src/patterns/frequency_counter.ts",
         "pattern:pointers": "tsx src/patterns/multiple_pointers.ts",
+        "pattern:sliding_window": "tsx src/patterns/sliding_window.ts",
         "solution:comments": "tsx src/solutions/recursive_comments.ts",
         "solution:anagram": "tsx src/solutions/valid_anagram.ts",
         "solution:unique_values": "tsx src/solutions/unique_values.ts"

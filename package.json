@@ -7,6 +7,7 @@
         "arrays": "tsx src/inbuilt_ds/arrays.ts",
         "objects": "tsx src/inbuilt_ds/objects.ts",
         "pattern:frequency": "tsx src/patterns/frequency_counter.ts",
+        "pattern:pointers": "tsx src/patterns/multiple_pointers.ts",
         "solution:comments": "tsx src/solutions/recursive_comments.ts",
         "solution:anagram": "tsx src/solutions/valid_anagram.ts"
     },

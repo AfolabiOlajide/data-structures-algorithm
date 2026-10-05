@@ -9,7 +9,8 @@
         "pattern:frequency": "tsx src/patterns/frequency_counter.ts",
         "pattern:pointers": "tsx src/patterns/multiple_pointers.ts",
         "solution:comments": "tsx src/solutions/recursive_comments.ts",
-        "solution:anagram": "tsx src/solutions/valid_anagram.ts"
+        "solution:anagram": "tsx src/solutions/valid_anagram.ts",
+        "solution:unique_values": "tsx src/solutions/unique_values.ts"
     },
     "keywords": [],
     "author": "",

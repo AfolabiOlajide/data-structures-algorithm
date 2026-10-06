@@ -32,3 +32,22 @@ validAnagram("rat", "car");
 validAnagram("awesome", "awesom");
 validAnagram("qwerty", "qeywrt");
 validAnagram("texttwisttime", "timetwisttext");
+
+function isAnagram(s: string, t: string): boolean {
+    if (s.length !== t.length) return false;
+
+    let m1: Map<string, number> = new Map();
+
+    for (let char of s) {
+        m1.get(char) ? m1.set(char, m1.get(char)! + 1) : m1.set(char, 1);
+    }
+
+    for (let char of t) {
+        if (m1.get(char) === 0 || m1.get(char) === undefined) {
+            return false;
+        }
+        m1.set(char, m1.get(char)! - 1);
+    }
+
+    return true;
+}

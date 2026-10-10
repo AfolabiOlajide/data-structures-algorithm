@@ -6,6 +6,7 @@
     "scripts": {
         "arrays": "tsx src/inbuilt_ds/arrays.ts",
         "objects": "tsx src/inbuilt_ds/objects.ts",
+        "stacks": "tsx src/adt_implementation/stacks.ts",
         "pattern:frequency": "tsx src/patterns/frequency_counter.ts",
         "pattern:pointers": "tsx src/patterns/multiple_pointers.ts",
         "pattern:sliding_window": "tsx src/patterns/sliding_window.ts",

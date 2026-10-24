@@ -10,6 +10,7 @@
         "queues": "tsx src/adt_implementation/queues.ts",
         "pattern:frequency": "tsx src/patterns/frequency_counter.ts",
         "pattern:pointers": "tsx src/patterns/multiple_pointers.ts",
+        "pattern:linear_search": "tsx src/patterns/linear_search.ts",
         "pattern:sliding_window": "tsx src/patterns/sliding_window.ts",
         "solution:comments": "tsx src/solutions/recursive_comments.ts",
         "solution:anagram": "tsx src/solutions/valid_anagram.ts",
